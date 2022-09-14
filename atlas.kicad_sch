@@ -26951,7 +26951,7 @@
   (symbol (lib_id "robot-eagle-import:JP1EJP1_SHORT") (at 344.17 245.11 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 498bd9bb-ff7e-45f5-92c1-b16ac6c3913f)
-    (property "Reference" "JP?" (id 0) (at 342.9 245.11 90)
+    (property "Reference" "JP2" (id 0) (at 342.9 245.11 90)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
     (property "Value" "SHORT" (id 1) (at 349.885 245.11 90)
@@ -38447,10 +38447,10 @@
     (path "/e8645ab5-1cd5-425f-a9d9-a549794d2cd1"
       (reference "J?") (unit 1) (value "PINHD-1X10") (footprint "robot:1X10")
     )
-    (path "/2ef0e727-eb6c-4324-a6ba-f30c0bb34322"
-      (reference "JP?") (unit 1) (value "SHORT") (footprint "robot:JP1_SHORT")
-    )
     (path "/498bd9bb-ff7e-45f5-92c1-b16ac6c3913f"
+      (reference "JP2") (unit 1) (value "SHORT") (footprint "robot:JP1_SHORT")
+    )
+    (path "/2ef0e727-eb6c-4324-a6ba-f30c0bb34322"
       (reference "JP?") (unit 1) (value "SHORT") (footprint "robot:JP1_SHORT")
     )
     (path "/4b3875da-eda9-4142-9c87-c7d617000ee8"
